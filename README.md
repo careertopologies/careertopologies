@@ -23,6 +23,7 @@
 
 ## Next Steps
 - [ ] Translate images to english
+- [ ] Translate repository files to pt-br
 - [ ] Add more descriptions in the README.md
 - [ ] Update Basic Concepts (add Lattice)
 - [ ] Redesign Lattice image
