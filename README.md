@@ -7,7 +7,7 @@
 
 
 ## Basics Concepts
-![alt text](Career%20Topologies%20-%20Concepts.png "Basics Concepts")
+<image src="https://github.com/Career-Topologies/concepts/blob/main/Career%20Topologies%20-%20Concepts.png" />
 
 ## Examples
 
