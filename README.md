@@ -16,7 +16,7 @@
   
 ### Ladder | W Path 
 
-<image src="https://github.com/careertopologies/concepts-and-examples/blob/main/career-y.png" />
+<image src="https://github.com/careertopologies/concepts-and-examples/blob/main/career-w.png" />
   
 ### Lattice | Lattice Path or Rede Model
 <image src="https://github.com/careertopologies/concepts-and-examples/blob/main/career-r.png" />
