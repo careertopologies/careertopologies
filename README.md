@@ -3,7 +3,7 @@
 - [Basics Concepts](https://github.com/Career-Topologies/concepts/blob/main/Career%20Topologies%20-%20Concepts.png)
 - [Example - Y Model](https://github.com/careertopologies/concepts-and-examples/blob/main/career-y.png)
 - [Example - W Model](https://github.com/careertopologies/concepts-and-examples/blob/main/career-w.png)
-- [Example - Network Model](https://github.com/careertopologies/concepts-and-examples/blob/main/career-r.png)
+- [Example - Lattice Model](https://github.com/careertopologies/concepts-and-examples/blob/main/career-r.png)
 
 
 ## Basics Concepts
