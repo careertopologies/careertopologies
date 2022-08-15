@@ -1,6 +1,6 @@
 # Perfil Profissional
 
-Perfil profissional na definição de ```shapes``` é como a empresa e as pessoas observam suas habilidades, que refletem em suas atuações e responsabilidades dentro da equipe.
+Perfil profissional na definição de shapes é como a empresa e as pessoas observam suas habilidades, que refletem em suas atuações e responsabilidades dentro da equipe.
 
 Atenção: Não há modelo único ideal, cada empresa e área deve adotar o que melhor performa para seus desafios. Nos exemplos deixei algumas recomenções (não regras).
 
@@ -12,7 +12,7 @@ Um perfil profissional não pode ser forçado em uma pessoa, já que cada pessoa
 
 Profissionais que dominam uma única disciplina. Geralmente não navegam em atividades fora de seu escopo. Exemplos: Backend Engineer, .NET Developer, Frontend Engineer, UX Designer, UI Designer.
 
-Recomendação: Pessoas especialistas em um única disciplina funcionam melhor em contextos mais específicos, para equipes de produto/fluxo de valor não escala muito bem, pela quantidade de pessoas que serão necessárias para uma entrega de ponta-a-ponta.
+Recomendação: Pessoas especialistas em uma única disciplina funcionam melhor em contextos mais específicos, para equipes de produto/fluxo de valor não escala muito bem, pela quantidade de pessoas que serão necessárias para uma entrega de ponta-a-ponta.
 
 ## T-Shaped
 
