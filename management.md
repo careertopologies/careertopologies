@@ -35,7 +35,6 @@ Atuações Comuns:
 - Atividades de curto-prazo
 - Remover impedimentos
 - Definição de prioridade
-- Entrevistas
 
 Conhecimentos Recomendados:
 
@@ -43,6 +42,7 @@ Conhecimentos Recomendados:
 - Management 3.0
 - Agile
 - Team building
+- Modelo de Tuckman
 
 ## Middle Manager
 
@@ -58,7 +58,6 @@ Atuações Comuns:
 - Tradução de estratégia em plano de ação
 - Gestão de orçamento* 
 - Definição de prioridade
-- Entrevistas
 
 Conhecimentos Recomendados:
 
@@ -70,6 +69,7 @@ Conhecimentos Recomendados:
 - OKR (Ou ferramenta de metas da org)
 - KPI
 - Roadmap
+- Modelo de Tuckman
 
 ## Top Manager
 
