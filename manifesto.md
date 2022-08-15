@@ -6,8 +6,6 @@ Há muitos desafios quando falamos sobre trilha de carreira nas empresas, cada u
 
 Com objetivo de guiar o framework desenvolvi esse manifesto com 8 pilares:
 
-![pilares do manifesto](./assets/manifesto.png)
-
 ## 1. Transparência
 
 As oportunidades de crescimento devem ser **visíveis para todas as pessoas** com o que é esperado para cada função em todos os níveis.
@@ -39,3 +37,6 @@ A construção da carreira é de responsabilidade tanto da organização quanto 
 ## 8. Flexibilidade
 
 A organização deve permitir transições além das verticais, permitindo o movimento entre especialidade e liderança ou áreas.
+
+
+![pilares do manifesto](./assets/manifesto.png)
