@@ -33,8 +33,9 @@ O objetivo não é reinventar nada, apenas simplificar, há releituras e inspira
 
 ## 🗺️ Roadmap
 
-Roadmap da versão 1.0:****
+Roadmap da versão 1.0:
 
+- [ ] Documentar no Github
 - [ ] Newsletter sobre carreira
 - [ ] Minibook sobre o framework
 - [ ] Website e app com ferramentas
@@ -45,6 +46,6 @@ Link do draft completo da versão 1.0: https://miro.com/app/board/uXjVOvr7H7Q=/
 
 ---
 
-## Contato:
+## 💬 Contato
 
 Caso queira conversar sobre carreira ou o framework, só me chamar no Linkedin: [guilherme-dos-santos](https://www.linkedin.com/in/guilherme-dos-santos/)
