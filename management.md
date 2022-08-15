@@ -84,4 +84,4 @@ Conhecimentos Recomendados:
 
 ## Futuro
 
-Um dos grandes desafios sobre a gestão é como empresas pequenas conseguem dar conta do operacional até o estratégico sem perder o foco no que cada um deveria se preocupar. Há formas de lidar com esses desafios com menos hierarquia e custo? Tentarei construir essa visão na próxima versão, utilizando conceitos da Holocracia (ou Halocracia).
+Um dos grandes desafios sobre a gestão é como empresas pequenas conseguem dar conta do operacional até o estratégico sem perder o foco no que cada um deveria se preocupar. Há formas de lidar com esses desafios com menos hierarquia e custo? Tentarei construir essa visão na próxima versão, utilizando conceitos da Holocracia.
