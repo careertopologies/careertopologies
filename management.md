@@ -4,6 +4,23 @@ Muitos acreditam que gestão é tudo igual, mas a realidade é bem diferente, de
 
 ![os 3 niveis da gestão](./assets/careertopologies-management.png)
 
+## Manager
+
+O que toda pessoa que faz gestão também deve ser responsável:
+
+- Contratação
+- Desligamento
+- Acompanhamento de resultados
+- Avaliação de desempenho
+- Feedback
+- 1:1
+- Formação de sucessores
+- Gestão de férias
+- Priorização 
+- Apoiar na comunicação interna
+- Cuidar das pessoas
+- Construir um ambiente saudável 
+
 ## Front-line Manager
 
 Pessoas na gestão operacional responsáveis por garantir a execução do plano, coordenar atividades e participar do dia-a-dia das equipes.
@@ -14,7 +31,7 @@ Planejamento:
 
 Atuações Comuns:
 
-- Dia-a-dia da equipe
+- Acompanhar o dia-a-dia da equipe
 - Atividades de curto-prazo
 - Remover impedimentos
 - Definição de prioridade
