@@ -23,13 +23,13 @@ O objetivo não é reinventar nada, apenas simplificar, há releituras e inspira
 - [x] [O Manifesto](./manifesto.md)
 - [x] [As Topologias](./topologies.md)
 - [x] [Os 3 Niveis da Gestãos](./management.md)
-- [ ] [Os Tipos de Perfil](./shapes.md)
-- [ ] [Remuneração e Reconhecimento](./remuneration.md)
-- [ ] [Habilidades e Responsabilidades](./skills.md)
-- [ ] [Processo de Capacitação](./development-plan.md)
-- [ ] [Princípios, Leis e Recomendações](./principle-laws.md)
-- [ ] [Como Contribuir](./CONTRIBUTING.md)
-- [ ] [Referências](./references.md)
+- [ ] Os Tipos de Perfil
+- [ ] Remuneração e Reconhecimento
+- [ ] Habilidades e Responsabilidades
+- [ ] Processo de Capacitação
+- [ ] Princípios, Leis e Recomendações
+- [x] [Como Contribuir](./CONTRIBUTING.md)
+- [ ] Referências
 
 ## 🗺️ Roadmap
 
