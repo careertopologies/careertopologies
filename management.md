@@ -1,6 +1,6 @@
 # Os 3 Níveis da Gestão
 
-Muitos acreditam que gestão é tudo igual, mas a realidade é bem diferente, dentro de uma organização é preciso ter pessoas gerenciando o operacional, tático e estratégico. Cada uma dessas camadas da gestão pode ter atuações diferentes.
+Muitos acreditam que gestão é tudo igual, mas a realidade é bem diferente, dentro de uma organização é preciso ter pessoas gerenciando o operacional, tático e estratégico. Cada camada da gestão pode ter atuações diferentes.
 
 ![os 3 niveis da gestão](./assets/careertopologies-management.png)
 
