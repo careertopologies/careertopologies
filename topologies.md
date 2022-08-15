@@ -1,8 +1,6 @@
 # Topologias
 
-Também conhecido como ladder, escada ou trilha, dentro do framework irei adotar o termo topologia.
-
-Topologias dentro desse contexto podemos entender que é a forma como a carreira é estruturada dentro de uma área.
+Também conhecido como ladder, escada ou trilha, dentro do framework irei adotar o termo topologia. Topologias dentro desse contexto podemos entender que é a forma como a carreira é estruturada dentro de uma área.
 
 Não existe uma única forma de construir carreira dentro de uma organização, cada área poderá adotar topologias diferentes, vai depender de cada necessidade.
 
