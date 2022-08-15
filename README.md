@@ -1,6 +1,6 @@
 # Career Topologies
 
-![Career Topologies Logo](./assets/career-topologies.png)
+![Career Topologies Logo](./assets/career-logo.png)
 
 Versão: 1.0
 
