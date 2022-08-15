@@ -38,5 +38,6 @@ A construção da carreira é de responsabilidade tanto da organização quanto 
 
 A organização deve permitir transições além das verticais, permitindo o movimento entre especialidade e liderança ou áreas.
 
+----
 
 ![pilares do manifesto](./assets/manifesto.png)
