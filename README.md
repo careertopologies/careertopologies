@@ -22,7 +22,7 @@ O objetivo não é reinventar nada, apenas simplificar, há releituras e inspira
 
 - [x] [O Manifesto](./manifesto.md)
 - [x] [As Topologias](./topologies.md)
-- [x] [Os 3 Niveis da Gestãos](./management.md)
+- [x] [Os 3 Niveis da Gestão](./management.md)
 - [x] [Os Tipos de Perfil](./shapes.md)
 - [ ] Remuneração e Reconhecimento
 - [ ] Habilidades e Responsabilidades
