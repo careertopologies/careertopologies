@@ -1,6 +1,6 @@
 # Manifesto de Carreira
 
-Há muitos desafios quando falamos sobre trilha de carreira nas empresas, cada um deve ser responsável pela sua própria carreira, mas toda empresa deveria ser transparente sobre quais jornadas uma pessoa pode percorrer dentro da organização e principalmente quais expectativas há sobre cada função.
+O desenvolvimento de uma carreira sólida dentro de uma organização é um desafio complexo. Embora cada pessoa deva ser responsável por sua trajetória, as empresas têm o dever de serem transparentes sobre as oportunidades disponíveis e as expectativas associadas a cada função. Este manifesto busca estabelecer princípios claros que promovam um ambiente de crescimento justo e orientado.
 
 ## Os pilares
 
@@ -8,35 +8,35 @@ Com objetivo de guiar o framework desenvolvi esse manifesto com 8 pilares:
 
 ## 1. Transparência
 
-As oportunidades de crescimento devem ser **visíveis para todas as pessoas** com o que é esperado para cada função em todos os níveis.
+As oportunidades de crescimento devem ser **claramente acessíveis a todos**, com expectativas bem definidas para cada função e nível de responsabilidade.
 
 ## 2. Merecimento
 
-Promoções e méritos devem ser **baseados em resultado** e **não no favoritismo**. Considerando também a diversidade e garantindo que todas as pessoas terão o que precisam para conseguir se desenvolver.
+Promoções e reconhecimentos devem ser **fundamentados em resultados tangíveis**, evitando favoritismos. A empresa deve promover um ambiente onde todos tenham as ferramentas necessárias para prosperar, respeitando a diversidade.
 
 ## 3. Igualdade
 
-Não deve haver nenhum tipo de desigualdade salarial, benefícios e no tratamento entre pessoas que ocupam a mesma posição.
+Devem ser asseguradas **condições de igualdade** em termos de salário, benefícios e tratamento para todas as pessoas na mesma posição, independentemente de suas diferenças.
 
 ## 4. Consistência
 
-Promoções e méritos devem ser baseados em entregas consistentes e não em entregas pontuais, possibilitando o desenvolvimento e sustentabilidade a longo prazo.
+Reconhecimentos e promoções devem valorizar **entregas consistentes**, priorizando o crescimento sustentável a longo prazo, em vez de realizações pontuais.
 
 ## 5. Cooperação
 
-Carreira não deve ser tratado como um jogo, estimulando a ansiedade e criando rivalidade. Todas as pessoas podem contribuir com a carreira de outras.
+O desenvolvimento de carreira não deve ser visto como uma competição. **Fomentar a colaboração** ajuda a reduzir ansiedade e rivalidades, fortalecendo o sucesso coletivo.
 
 ## 6. Diversidade
 
-A organização deve criar condições de desenvolvimento e inclusão da diversidade para as oportunidades em todos os níveis, principalmente na liderança.
+A empresa deve criar um ambiente que **promova a inclusão e o desenvolvimento de grupos diversos**, especialmente em cargos de liderança e em todos os níveis da organização.
 
 ## 7. Protagonismo
 
-A construção da carreira é de responsabilidade tanto da organização quanto da pessoa, escolher onde quer chegar e trilhar deve ser responsabilidade da pessoa.
+O desenvolvimento de carreira é uma **responsabilidade compartilhada**. Enquanto a empresa oferece suporte, cada pessoa deve traçar seu próprio caminho, definindo metas e tomando decisões que impulsionem seu crescimento.
 
 ## 8. Flexibilidade
 
-A organização deve permitir transições além das verticais, permitindo o movimento entre especialidade e liderança ou áreas.
+A organização deve permitir **movimentação entre diferentes áreas e especialidades**, promovendo transições horizontais e verticais, e incentivando o desenvolvimento em liderança ou especialização conforme as aspirações individuais.
 
 ----
 
