@@ -6,7 +6,52 @@ No contexto deste framework, o termo "topologia" é usado para descrever a forma
 
 Esse modelo oferece dois caminhos distintos: **gestão** e **contribuição individual** (ou técnica). Em algum ponto de sua trajetória, o profissional é incentivado a escolher entre seguir a trilha de gestão ou continuar sua jornada como especialista técnico.
 
-![modelo em y](./assets/careertopologies-model-y.png)
+```mermaid
+flowchart TB
+    subgraph "CHIEF LEVEL"
+        style CLEVEL fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        CLEVEL["C-LEVEL"]
+    end
+
+    subgraph "MANAGEMENT LEVEL"
+        style VP fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style HEAD fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style MANAGER fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style LEAD fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        VP["VP"] --> HEAD["HEAD / DIRECTOR"] --> MANAGER["MANAGER"] --> LEAD["LEAD / COORD"]
+    end
+
+    subgraph "TECHNICAL LEVEL"
+        style FELLOW fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style DISTINGUISHED fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style PRINCIPAL fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style STAFF fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        FELLOW["FELLOW"] --> DISTINGUISHED["DISTINGUISHED"] --> PRINCIPAL["PRINCIPAL"] --> STAFF["STAFF / SPEC"]
+    end
+
+    subgraph "BASE LEVEL"
+        style SENIOR fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style MID fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style JUNIOR fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        SENIOR["SENIOR"] --> MID["MID"] --> JUNIOR["JUNIOR"]
+    end
+
+    subgraph "ENTRY LEVEL"
+        style INTERN fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        style ASSOCIATE fill:#000,stroke:#333,stroke-width:4px,color:#fff
+        INTERN["INTERN"]
+        ASSOCIATE["ASSOCIATE"]
+    end
+
+    CLEVEL --> VP
+    CLEVEL --> FELLOW
+
+    STAFF --> SENIOR
+    LEAD --> SENIOR
+
+    JUNIOR --> INTERN
+    JUNIOR --> ASSOCIATE
+```
 
 ## Modelo em W
 
