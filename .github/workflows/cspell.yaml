@@ -1,0 +1,35 @@
+name: 'Check spelling'
+on: # rebuild any PRs and main branch changes
+  pull_request:
+  push:
+  workflow_dispatch:
+    inputs:
+      incremental_files_only:
+        description: 'Check only incremental files'
+        default: 'true'
+        type: choice
+        options: ['true', 'false']
+        
+
+jobs:
+  spellcheck: # run the action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      
+      - run: |
+          cd .cspell 
+          npm install
+
+      - uses: streetsidesoftware/cspell-action@v6
+        with:
+          incremental_files_only: ${{ github.event.inputs.incremental_files_only }}
+          config: "./cspell.json"
+          files: |
+            **/*.{md,txt,json}
+            LICENSE
