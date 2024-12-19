@@ -40,4 +40,4 @@ A organização deve permitir **movimentação entre diferentes áreas e especia
 
 ----
 
-![pilares do manifesto](./assets/manifesto.png)
+![pilares do manifesto](./assets/manifest.png)
