@@ -1,5 +1,7 @@
 # Manifesto de Carreira
 
+<small>Clique aqui para voltar ao [README.md](./README.md)</small>
+
 O desenvolvimento de uma carreira sólida dentro de uma organização é um desafio complexo. Embora cada pessoa deva ser responsável por sua trajetória, as empresas têm o dever de serem transparentes sobre as oportunidades disponíveis e as expectativas associadas a cada função. Este manifesto busca estabelecer princípios claros que promovam um ambiente de crescimento justo e orientado.
 
 ## Os pilares
