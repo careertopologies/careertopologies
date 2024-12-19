@@ -8,9 +8,9 @@ Versão: 1.0
 
 Um framework para estruturar trilhas de carreira em empresas de tecnologia.
 
-## 📌 Qual o próposito desse trabalho?
+## 📌 Qual o propósito desse trabalho?
 
-Disponibilizar conjuntos de práticas, conceitos, ferramentas e referências para que seja possível criar trilhas melhores, mais sustentaveis e justas.
+Disponibilizar conjuntos de práticas, conceitos, ferramentas e referências para que seja possível criar trilhas melhores, mais sustentáveis e justas.
 
 ## ⚠️ Disclaimer
 
@@ -20,9 +20,9 @@ O objetivo não é reinventar nada, apenas simplificar, há releituras e inspira
 
 ## 🔖 Sumário
 
-- [x] [O Manifesto](./manifesto.md)
+- [x] [O Manifesto](./manifest.md)
 - [x] [As Topologias](./topologies.md)
-- [x] [Os 3 Niveis da Gestão](./management.md)
+- [x] [Os 3 Níveis da Gestão](./management.md)
 - [x] [Os Tipos de Perfil](./shapes.md)
 - [ ] Remuneração e Reconhecimento
 - [ ] Habilidades e Responsabilidades
@@ -48,4 +48,4 @@ Link do draft completo da versão 1.0: https://miro.com/app/board/uXjVOvr7H7Q=/
 
 ## 💬 Contato
 
-Caso queira conversar sobre carreira ou o framework, só me chamar no Linkedin: [guilherme-dos-santos](https://www.linkedin.com/in/guilherme-dos-santos/)
+Caso queira conversar sobre carreira ou o framework, só me chamar no LinkedIn: [guilherme-dos-santos](https://www.linkedin.com/in/guilherme-dos-santos/)
