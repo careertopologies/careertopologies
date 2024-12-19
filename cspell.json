@@ -4,13 +4,18 @@
     "dictionaryDefinitions": [],
     "dictionaries": [],
     "words": [
+        "AGILIST",
         "Beeva",
         "Bestpractices",
+        "CLEVEL",
         "Codaqui",
         "Enderson",
         "github",
         "joao",
-        "Minibook"
+        "Minibook",
+        "Subgráfico",
+        "subgráficos",
+        "Subgráficos"
     ],
     "ignoreWords": [],
     "import": [
