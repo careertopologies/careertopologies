@@ -94,7 +94,7 @@ flowchart TB
         style HEAD_PROJECT fill:#800080,stroke:#333,stroke-width:2px,color:#fff
         style MANAGER_PROJECT fill:#800080,stroke:#333,stroke-width:2px,color:#fff
         style LEAD_PROJECT fill:#800080,stroke:#333,stroke-width:2px,color:#fff
-        VP_PROJECT["VP (Project/Tech Mgmt)"]
+        VP_PROJECT["VP (Project/Tech Management)"]
         HEAD_PROJECT["HEAD / DIRECTOR"]
         MANAGER_PROJECT["MANAGER"]
         LEAD_PROJECT["LEAD"]
@@ -155,7 +155,91 @@ flowchart TB
 
 No modelo em rede, a carreira é mais fluida, permitindo que a pessoa **transite entre diferentes funções ou áreas** com base em seu engajamento e performance. Essa abordagem oferece flexibilidade para explorar e desenvolver habilidades em múltiplas áreas, promovendo um crescimento mais dinâmico.
 
-![modelo em rede](./assets/careertopologies-model-n.png)
+```mermaid
+flowchart TB
+    %% Subgráfico C-LEVEL %%
+    subgraph CHIEF_LEVEL
+        direction TB
+        style CLEVEL fill:#008080,stroke:#333,stroke-width:2px,color:#fff
+        CLEVEL["C-LEVEL"]
+    end
+
+    %% Subgráfico Management Level %%
+    subgraph MANAGEMENT_LEVEL
+        direction TB
+        style VP_MANAGEMENT fill:#4b0082,stroke:#333,stroke-width:2px,color:#fff
+        VP_MANAGEMENT["VP"]
+        HEAD_MANAGEMENT["HEAD / DIRECTOR"]
+        MANAGER_MANAGEMENT["MANAGER"]
+        LEAD_MANAGEMENT["COORDINATOR"]
+        
+        VP_MANAGEMENT --> HEAD_MANAGEMENT --> MANAGER_MANAGEMENT --> LEAD_MANAGEMENT
+    end
+
+    %% Subgráfico Project/Technical-Management Level %%
+    subgraph PROJECT_TECHNICAL_MANAGEMENT_LEVEL
+        direction TB
+        style VP_PROJECT fill:#800080,stroke:#333,stroke-width:2px,color:#fff
+        VP_PROJECT["VP"]
+        HEAD_PROJECT["HEAD / DIRECTOR"]
+        MANAGER_PROJECT["MANAGER"]
+        LEAD_PROJECT["LEAD"]
+
+        VP_PROJECT --> HEAD_PROJECT --> MANAGER_PROJECT --> LEAD_PROJECT
+    end
+
+    %% Subgráfico Technical Level %%
+    subgraph TECHNICAL_LEVEL
+        direction TB
+        style FELLOW_TECHNICAL fill:#0066cc,stroke:#333,stroke-width:2px,color:#fff
+        FELLOW_TECHNICAL["FELLOW"]
+        DISTINGUISHED_TECHNICAL["DISTINGUISHED"]
+        PRINCIPAL_TECHNICAL["PRINCIPAL"]
+        STAFF_TECHNICAL["STAFF / SPEC"]
+
+        FELLOW_TECHNICAL --> DISTINGUISHED_TECHNICAL --> PRINCIPAL_TECHNICAL --> STAFF_TECHNICAL
+    end
+
+    %% Subgráfico Base Level %%
+    subgraph BASE_LEVEL
+        direction LR
+        style BASE_LEVEL fill:#009999,stroke:#333,stroke-width:2px,color:#fff
+        ENGINEER["ENGINEER"]
+        PRODUCT["PRODUCT"]
+        AGILIST["AGILIST"]
+        OTHER["..."]
+        ENGINEER <--> PRODUCT <--> AGILIST <--> OTHER
+    end
+
+    %% Subgráfico Entry Level %%
+    subgraph ENTRY_LEVEL
+        direction LR
+        style ENTRY_LEVEL fill:#808080,stroke:#333,stroke-width:2px,color:#fff
+        INTERN["INTERN"]
+        ASSOCIATE["ASSOCIATE"]
+    end
+
+    %% Conexões principais %%
+
+    CLEVEL --> FELLOW_TECHNICAL
+    CLEVEL --> VP_MANAGEMENT
+    CLEVEL --> VP_PROJECT
+
+    %% Conexões Horizontais do Segundo Nível %%
+    FELLOW_TECHNICAL <--> VP_MANAGEMENT <--> VP_PROJECT
+    DISTINGUISHED_TECHNICAL <--> HEAD_MANAGEMENT <--> HEAD_PROJECT
+    PRINCIPAL_TECHNICAL <--> MANAGER_MANAGEMENT <--> MANAGER_PROJECT
+    STAFF_TECHNICAL <--> LEAD_MANAGEMENT <--> LEAD_PROJECT
+
+    %% Conexões com Base Level %%
+    STAFF_TECHNICAL --> BASE_LEVEL
+    LEAD_PROJECT --> BASE_LEVEL
+    LEAD_MANAGEMENT --> BASE_LEVEL
+
+    %% Conexões com Entry Level %%
+    BASE_LEVEL --> ENTRY_LEVEL
+
+```
 
 ## Futuro
 
