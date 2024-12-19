@@ -1,0 +1,7 @@
+{
+    "name": "@internal/cspell",
+    "private": true,
+    "devDependencies": {
+      "@cspell/dict-pt-br": "^2.3.3"
+    }
+  }

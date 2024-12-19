@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Beeva",
+        "Bestpractices",
+        "Codaqui",
+        "Enderson",
+        "github",
+        "joao",
+        "Minibook"
+    ],
+    "ignoreWords": [],
+    "import": [
+        "./.cspell/cspell.json"
+    ],
+    "language": "en,pt,pt_BR"
+}
