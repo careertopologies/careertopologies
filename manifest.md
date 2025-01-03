@@ -1,5 +1,7 @@
 # Manifesto de Carreira
 
+[![Botão para voltar](https://img.shields.io/badge/VOLTAR-readme-white?style=for-the-badge)](./README.md)
+
 O desenvolvimento de uma carreira sólida dentro de uma organização é um desafio complexo. Embora cada pessoa deva ser responsável por sua trajetória, as empresas têm o dever de serem transparentes sobre as oportunidades disponíveis e as expectativas associadas a cada função. Este manifesto busca estabelecer princípios claros que promovam um ambiente de crescimento justo e orientado.
 
 ## Os pilares
@@ -40,4 +42,4 @@ A organização deve permitir **movimentação entre diferentes áreas e especia
 
 ----
 
-![pilares do manifesto](./assets/manifesto.png)
+![pilares do manifesto](./assets/manifest.png)

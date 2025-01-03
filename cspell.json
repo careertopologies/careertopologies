@@ -1,0 +1,25 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "AGILIST",
+        "Beeva",
+        "Bestpractices",
+        "CLEVEL",
+        "Codaqui",
+        "Enderson",
+        "github",
+        "joao",
+        "Minibook",
+        "Subgráfico",
+        "subgráficos",
+        "Subgráficos"
+    ],
+    "ignoreWords": [],
+    "import": [
+        "./.cspell/cspell.json"
+    ],
+    "language": "en,pt,pt_BR"
+}
