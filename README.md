@@ -3,7 +3,8 @@
 ![Career Topologies Logo](./assets/career-logo.png)
 
 Versão: 1.0
-Link do draft completo da versão 1.0: https://go.platform.rocks/career
+
+Link do draft completo: https://go.platform.rocks/career
 
 ## ✨ O que é o Career Topologies?
 
