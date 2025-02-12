@@ -3,6 +3,7 @@
 ![Career Topologies Logo](./assets/career-logo.png)
 
 Versão: 1.0
+Link do draft completo da versão 1.0: https://go.platform.rocks/career
 
 ## ✨ O que é o Career Topologies?
 
@@ -42,7 +43,6 @@ Roadmap da versão 1.0:
 - [ ] Traduzir para inglês
 
 
-Link do draft completo da versão 1.0: https://miro.com/app/board/uXjVOvr7H7Q=/
 
 ---
 
