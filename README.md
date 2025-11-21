@@ -65,34 +65,22 @@ Um **framework completo** para estruturar trilhas de carreira em empresas de tec
 
 ## Começar Agora
 
-### Para Profissionais (ICs)
+**Para Profissionais (ICs)**
 
-1. **Entenda sua progressão**: Leia [Nivelamento](docs/pt-BR/04-nivelamento.md) e [Competências](docs/pt-BR/06-competencias.md)
-2. **Identifique seu perfil**: Descubra se você é [I, T ou Pi](docs/pt-BR/03-shapes.md)
+ - **Entenda sua progressão**: Leia [Nivelamento](docs/pt-BR/04-nivelamento.md) e [Competências](docs/pt-BR/06-competencias.md)
+ - **Identifique seu perfil**: Descubra se você é [I, T ou Pi](docs/pt-BR/03-shapes.md)
 
-### Para Gestores
+**Para Gestores**
 
-1. **Compreenda os fundamentos**: Leia o [Manifesto](docs/pt-BR/01-manifesto.md)
-2. **Aprenda a avaliar**: Estude [Competências](docs/pt-BR/06-competencias.md) e [Nivelamento](docs/pt-BR/04-nivelamento.md)
+ -  **Compreenda os fundamentos**: Leia o [Manifesto](docs/pt-BR/01-manifesto.md)
+ -  **Aprenda a avaliar**: Estude [Competências](docs/pt-BR/06-competencias.md) e [Nivelamento](docs/pt-BR/04-nivelamento.md)
 
-### Para Líderes de RH/People
+**Para Líderes de RH/People**
 
-1. **Faça o diagnóstico**: Use o [Guia de Implementação](guides/pt-BR/guia-implementacao.md)
-2. **Escolha sua topologia**: Avalie [Modelos Y, W ou Rede](docs/pt-BR/02-topologias.md)
-3. **Implemente em fases**: Diagnóstico → Design → Piloto → Rollout
+ -  **Faça o diagnóstico**: Use o [Guia de Implementação](guides/pt-BR/guia-implementacao.md)
+ - **Escolha sua topologia**: Avalie [Modelos Y, W ou Rede](docs/pt-BR/02-topologias.md)
+ - **Implemente em fases**: Diagnóstico → Design → Piloto → Rollout
 
----
-
-## Diferenciais
-
-| Característica | Career Topologies |
-|----------------|-------------------|
-| **Multi-disciplinar** | Aplicável a Engineering, Product, Design, People, etc. |
-| **Flexível** | 3 modelos topológicos (Y, W, Rede) |
-| **Baseado em evidências** | Referências a frameworks consolidados |
-| **Open Source** | Gratuito e adaptável |
-| **Prático** | Guias e templates prontos |
-| **Holístico** | Estrutura + Competências + Processos + Remuneração |
 
 ---
 
@@ -127,9 +115,7 @@ Leia nosso [Guia de Contribuição](CONTRIBUTING.md) para mais detalhes.
 
 ## Referências e Inspirações
 
-Este framework não reinventa a roda, mas sintetiza aprendizados de **Empresas**: GitLab, Buffer, Dropbox, Spotify, CircleCI e outras.
-
-Ver [lista completa de referências](docs/pt-BR/referencias.md).
+Este framework não reinventa a roda, mas sintetiza aprendizados de **Empresas**: GitLab, Buffer, Dropbox, Spotify, CircleCI e outras. Ver [lista completa de referências](docs/pt-BR/referencias.md).
 
 ---
 
@@ -138,13 +124,6 @@ Ver [lista completa de referências](docs/pt-BR/referencias.md).
 - Este framework é **open source e gratuito**
 - Não é um modelo "tamanho único" - **adapte ao seu contexto**
 
----
-
-## Idiomas Disponíveis
-
-- **Português (pt-BR)** - Completo
-- **English (en-US)** - Completo
-- **Outros idiomas** - Contribuições bem-vindas!
 
 ---
 
@@ -152,14 +131,6 @@ Ver [lista completa de referências](docs/pt-BR/referencias.md).
 
 Este projeto está licenciado sob a licença [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
 
-Isso significa que você pode:
-- **Compartilhar** - copiar e redistribuir o material em qualquer meio ou formato
-- **Adaptar** - remixar, transformar e construir sobre o material para qualquer propósito, mesmo comercialmente
-
-**Sob os seguintes termos**:
-- **Atribuição** - Você deve dar o crédito apropriado, prover um link para a licença e indicar se mudanças foram feitas
-
-Para mais detalhes, veja o arquivo [LICENSE](LICENSE).
 
 ---
 
@@ -171,11 +142,12 @@ Obrigado a todas as empresas que tornaram seus frameworks públicos, autores que
 
 ---
 
-<div align="center">
+<div align="left">
 
-**[Voltar ao topo](#career-topologies)**
+**[Voltar ao topo](#o-que-é-o-career-topologies)**
 
-Feito por Gui Santos
+
+# Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--dos--santos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-dos-santos/)
 
