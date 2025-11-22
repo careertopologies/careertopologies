@@ -1,5 +1,6 @@
 
-# <img src="./assets/logo.png" alt="Career Topologies Logo" width="24"> Career Topologies &middot;  [![Versão](https://img.shields.io/badge/versão-1.0-blue.svg)](https://github.com/careertopologies/careertopologies) [![Licença](https://img.shields.io/badge/licença-CC%20BY%204.0-green.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Idiomas](https://img.shields.io/badge/idiomas-pt--BR%20%7C%20en--US-orange.svg)](#idiomas-disponíveis)
+
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/b737860a-4e0c-4aec-aef1-8a6b69f50546" /> Career Topologies &middot;  [![Versão](https://img.shields.io/badge/versão-1.0-blue.svg)](https://github.com/careertopologies/careertopologies) [![Licença](https://img.shields.io/badge/licença-CC%20BY%204.0-green.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Idiomas](https://img.shields.io/badge/idiomas-pt--BR%20%7C%20en--US-orange.svg)](#idiomas-disponíveis)
 
 **Framework open-source para estruturar trilhas de carreira justas, transparentes e sustentáveis**
 
