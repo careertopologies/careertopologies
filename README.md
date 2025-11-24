@@ -86,6 +86,16 @@ Um **framework completo** para estruturar trilhas de carreira em empresas de tec
 
 ---
 
+## Conheça o Projeto
+
+Assista o vídeo no canal do Github:
+
+[![Watch the video](https://img.youtube.com/vi/xoe4GCMaRPY/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=xoe4GCMaRPY))
+
+
+
+---
+
 ## Roadmap
 
 ### Versão 1.0 (Atual)
